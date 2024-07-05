@@ -1,0 +1,22 @@
+.blog{
+    padding: 10px;
+    font-size: 30px;
+    margin-left: 40px;
+    color: white;
+}
+
+.nav{
+    background: rgba(195, 74, 219, 0.785);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.nav-link{
+font-size: 30px !important;
+}
+
+body {
+    background-image: url("./images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
